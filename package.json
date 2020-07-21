@@ -32,7 +32,7 @@
     "react-native-randombytes": "^3.5.3",
     "react-native-reanimated": "^1.8.0",
     "react-native-v8": "^0.62.2-patch.1",
-    "react-native-vector-icons": "^6.6.0",
+    "react-native-vector-icons": "7.0.0",
     "react-redux": "^7.2.0",
     "readable-stream": "^1.0.33",
     "redux": "^4.0.5",
